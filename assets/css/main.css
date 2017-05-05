@@ -1,0 +1,33 @@
+* {
+	padding: 0;
+	margin: 0;
+}
+
+section {
+	margin: 20px auto;
+}
+
+div {
+	width: 200px;
+	height: 200px;
+}
+
+.amarillo {
+	background-color: yellow;
+}
+
+.azul {
+	background-color: blue;
+}
+
+.rojo {
+	background-color: red;
+}
+
+.parte-2 {
+
+}
+
+.parte-3 {
+
+}
