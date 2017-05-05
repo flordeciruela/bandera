@@ -6,7 +6,7 @@
 section {
 	margin: 20px auto;
 	overflow: auto;
-	background-color: #a0e4f6;
+	border: 2px solid rgb(107, 105, 122);
 }
 
 div {
