@@ -5,6 +5,8 @@
 
 section {
 	margin: 20px auto;
+	overflow: auto;
+	background-color: #a0e4f6;
 }
 
 div {
@@ -25,7 +27,7 @@ div {
 }
 
 .parte-2 {
-
+	float: left;
 }
 
 .parte-3 {
